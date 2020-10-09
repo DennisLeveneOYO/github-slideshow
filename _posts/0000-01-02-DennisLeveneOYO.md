@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Try to import a meme to this line
 Use the left arrow to go back!
